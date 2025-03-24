@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-// merge sort is divide and conquer algorithm
+// divide and conquer algorithm
 // it divides the array into two halves and then merge them in sorted order
 // merge()- used to merge 2 havles of array, assumes both part are sorted
 // mergeSort()- divides array into 2 parts, low to mid& mid+1 to high
